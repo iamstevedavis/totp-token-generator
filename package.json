@@ -1,0 +1,19 @@
+{
+  "name": "totpTokenGenerator",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Generate a TOTP token for the users in the user.json file.",
+  "keywords": [],
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "speakeasy": "^2.0.0"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamstevedavis/totpTokenGenerator.js"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {}
+}

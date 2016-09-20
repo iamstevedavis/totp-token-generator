@@ -1,2 +1,2 @@
-# totpTokenGenerator.js
-Reads in a JSON file of users and outputs valid tokens for them in the console.
+# totp_token_generator.js
+Generate tokens for all users in the users.json file.
